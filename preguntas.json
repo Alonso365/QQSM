@@ -3,7 +3,7 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "Que es super eficaz contra el tipo normal",
+		            "question" : "Que es super eficaz contra el tipo normal?",
 		            "content" : [
 		                "Lucha",
 		                "Fantasma",
@@ -86,7 +86,7 @@
 				    "correct": 1,
 				    "content": [
 				        "1968",
-				        "1929",
+				        "1996",
 				        "1901",
 				        "1965"
 				    ],
@@ -95,94 +95,94 @@
 				{
 				    "correct": 2,
 				    "content": [
-				        "1998",
-				        "1989",
-				        "1996",
-				        "1800"
+				        "Talonflame",
+				        "Fletching",
+				        "Pidgey",
+				        "torchic"
 				    ],
-				    "question": "When did Margaret Thatcher became the first female Prime Minister of Britain?"
+				    "question": "Cual es la ave regional de kanto?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "15th April",
-				        "12th December",
-				        "1st May",
-				        "1st August"
+				        "Mew",
+				        "Charmander",
+				        "Rhydon",
+				        "Pikachu"
 				    ],
-				    "question": "When is the International Workers' Day?"
+				    "question": "Cual fue el primer pokemon creado?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "1962",
-				        "1963",
-				        "1964",
-				        "1965"
+				        "Charmander",
+				        "Squirtle",
+				        "Cyndaquil",
+				        "Bulbasaur"
 				    ],
-				    "question": "When did China test their first atomic device?"
+				    "question": "Que pokemon no es inicial de kanto?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "1904",
-				        "1905",
-				        "1908",
-				        "1909"
+				        "Arceus",
+				        "Mewthird",
+				        "Ho-oh",
+				        "Mew"
 				    ],
-				    "question": "When did Commander Robert Peary discover the North Pole?"
+				    "question": "Desde la genetica de que pokemon se creo mewtwo?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "819/sq. km",
-				        "602/sq. km",
-				        "415/sq. km",
-				        "500/sq. km"
+				        "Master ball",
+				        "Ultra ball",
+				        "Nido ball",
+				        "Super ball"
 				    ],
-				    "question": "What is the population density of Kerala?"
+				    "question": "Que pokeball nunca falla?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "4 km",
-				        "25 km",
-				        "500 m to 9 km",
-				        "150 km"
+				        "Flareon",
+				        "Sylveon",
+				        "Vaporeon",
+				        "Leafeon"
 				    ],
-				    "question": "What is the range of missile 'Akash'?"
+				    "question": "Que eeveevolucion fue introducida en Kalos?"
 				}
 		    ]
 		},
 		{
 		    "questions" : [
 		        {
-		            "question" : "In the U.S., if it's not Daylight Saving Time, it's what?",
+		            "question" : "Cual NO es una evolucion de eevee",
 		            "content" : [
-		                "Borrowed time",
-		                "Overtime",
-		                "Standard time",
-		                "Party time"
+		                "Vaporeon",
+		                "Jolteon",
+		                "Empoleon",
+		                "Flareon"
 		            ],
 		            "correct" : 2
 		        },
 		        {
-		            "question" : "Which part of the body are you most likely to \"stub\"?",
+		            "question" : "Cual es la evolucion final de happiny?",
 		            "content" : [
-		                "Toe",
-		                "Knee",
-		                "Elbow",
-		                "Brain"
+		                "Blissey",
+		                "Chancey",
+		                "Lickitung",
+		                "Jinx"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "Which country is largest by area?",
+		            "question" : "Cuantos gimnasios toca pasar antes de entrar a la liga pokemon",
 		            "content" : [
-		                "UK",
-		                "USA",
-		                "Russia",
-		                "China"
+		                "4",
+		                "6",
+		                "8",
+		                "12"
 		            ],
 		            "correct" : 2
 		        },
