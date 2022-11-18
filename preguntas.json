@@ -43,44 +43,44 @@
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "What is Aurora Borealis commonly known as?",
+		            "question" : "Originalmente cuantos pokemones eran?",
 		            "content" : [
-		                "Fairy Dust",
-		                "Northern Lights",
-		                "Book of ages",
-		                "a Game of Thrones main character"
+		                "150",
+		                "151",
+		                "149",
+		                "215"
 		            ],
 		            "correct" : 1
 		        },
 				{
 				    "correct": 3,
 				    "content": [
-				        "developed the telescope",
-				        "discovered four satellites of Jupiter",
-				        "discovered that the movement of pendulum produces a regular time measurement",
-				        "All of the above"
+				        "Oak",
+				        "Ash",
+				        "Blue",
+				        "Red"
 				    ],
-				    "question": "Galileo was an Italian astronomer who"
+				    "question": "Como se llama el primer protagonista de los juegos?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "the infrared light kills bacteria in the body",
-				        "resistance power increases",
-				        "the pigment cells in the skin get stimulated and produce a healthy tan",
-				        "the ultraviolet rays convert skin oil into Vitamin D"
+				        "Mexico",
+				        "Holanda",
+				        "España",
+				        "Francia"
 				    ],
-				    "question": "Exposure to sunlight helps a person improve his health because"
+				    "question": "En que pais se basa kalos?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "a club or a local sport association for remarkable achievements",
-				        "amateur athlete, not necessarily an Olympian",
-				        "National Olympic Committee for outstanding work",
-				        "None of the above"
+				        "España",
+				        "Holanda",
+				        "Japon",
+				        "Francia"
 				    ],
-				    "question": "Sir Thomas Fearnley Cup is awarded to"
+				    "question": "En que region se basa Paldea?"
 				},
 				{
 				    "correct": 1,
@@ -90,14 +90,14 @@
 				        "1901",
 				        "1965"
 				    ],
-				    "question": "Oscar Awards were instituted in"
+				    "question": "En que año salio el primer pokemon?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
 				        "1998",
 				        "1989",
-				        "1979",
+				        "1996",
 				        "1800"
 				    ],
 				    "question": "When did Margaret Thatcher became the first female Prime Minister of Britain?"
