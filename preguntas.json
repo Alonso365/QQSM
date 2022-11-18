@@ -3,42 +3,42 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "In what children's game are participants chased by someone designated \"It\"?",
+		            "question" : "Que es super eficaz contra el tipo normal",
 		            "content" : [
-		                "Tag",
-		                "Simon Says",
-		                "Charades",
-		                "Hopscotch"
+		                "Lucha",
+		                "Fantasma",
+		                "Electrico",
+		                "Fuego"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "On a radio, stations are changed by using what control?",
+		            "question" : "Cual es el nivel maximo de un pokemon?",
 		            "content" : [
-		                "Tuning",
-		                "Volume",
-		                "Bass",
-		                "Treble"
+		                "100",
+		                "50",
+		                "75",
+		                "10"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "Which material is most dense?",
+		            "question" : "Cual es el nivel maximo en el competitivo?",
 		            "content" : [
-		                "Silver",
-		                "Styrofoam",
-		                "Butter",
-		                "Gold"
+		                "20",
+		                "75",
+		                "100",
+		                "50"
 		            ],
 		            "correct" : 3
 		        },
 		        {
-		            "question" : "Which state in the United States is largest by area?",
+		            "question" : "Al dia de hoy cuantas generaciones hay?",
 		            "content" : [
-		                "Alaska",
-		                "California",
-		                "Texas",
-		                "Hawaii"
+		                "9",
+		                "7",
+		                "6",
+		                "11"
 		            ],
 		            "correct" : 0
 		        },
