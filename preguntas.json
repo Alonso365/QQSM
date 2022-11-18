@@ -289,484 +289,484 @@
 				{
 				    "correct": 0,
 				    "content": [
-				        "the density of milk increases",
-				        "the density of milk decreases",
-				        "the density of milk remains unchanged",
-				        "it becomes more viscous"
+				        "Raboot",
+				        "litten",
+				        "Rowlet",
+				        "Solgaleo"
 				    ],
-				    "question": "When cream is separated from milk"
+				    "question": "Cual No es un pokemon de alola?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "1999",
-				        "1989",
-				        "1979",
-				        "1969"
+				        "2016",
+				        "2009",
+				        "2017",
+				        "2020"
 				    ],
-				    "question": "When did 19 NATO members and 11 'Partners for Peace' join hands for peace plan for Kosovo Crisis?"
+				    "question": "En que año salio pokemon go"
 				}
 		    ]
 		},
 		{
 		    "questions" : [
 		        {
-		            "question" : "An albino gorilla usually has what color fur?",
+		            "question" : "Que animal es pikachu",
 		            "content" : [
-		                "Brown",
-		                "Black",
-		                "White",
-		                "Golden"
+		                "Rata",
+		                "Hamster",
+		                "Raton",
+		                "Conejo"
 		            ],
 		            "correct" : 2
 		        },
 		        {
-		            "question" : "When you enter a situation without a definite plan of action, you are said to be \"playing it by\" what?",
+		            "question" : "Como se llamaba la compañera de ash en kanto",
 		            "content" : [
-		                "Fingertips",
-		                "Ear",
-		                "Nose",
-		                "Mouth"
+		                "Serena",
+		                "Misty",
+		                "Luna",
+		                "Diana"
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "What is commonly known as the \"Emerald City\" in the United States?",
+		            "question" : "Que tipo es mew?",
 		            "content" : [
-		                "Palos Verdes, CA",
-		                "Seattle, WA",
-		                "New York, NY",
-		                "Dallas, TX"
+		                "Dragon",
+		                "Psiquico",
+		                "Dragon",
+		                "No tiene tipo"
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "What is the national emblem of Canada?",
+		            "question" : "Inicial tipo planta de kanto",
 		            "content" : [
-		                "Maple Leaf",
-		                "Brown Bear",
-		                "Maple Syrup",
-		                "Waffle"
+		                "Bulbasaur",
+		                "Charmander",
+		                "Squirtle",
+		                "Chicorita"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "What is the name of the largest freshwater lake in the world?",
+		            "question" : "De que pueblo es originario ash",
 		            "content" : [
-		                "Lake Union",
-		                "Lake Superior",
-		                "Lake Largest",
-		                "Lake Goodwin"
+		                "Pueblo paleta",
+		                "Pueblo lavanda",
+		                "Zona campestre",
+		                "ruta 13"
 		            ],
 		            "correct" : 0
 		        },
 				{
 				    "correct": 2,
 				    "content": [
-				        "Birds",
-				        "Cell formation",
-				        "Relation between organisms and their environment",
-				        "Tissues"
+				        "Marowak",
+				        "Cubone",
+				        "Lucario",
+				        "Raticate"
 				    ],
-				    "question": "Ecology deals with"
+				    "question": "Evolucion final de riolu"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "Earth's gravitational pull",
-				        "Moon's gravitational pull",
-				        "Centripetal force due to the earth's rotation",
-				        "Pressure of the atmosphere"
+				        "Arceus",
+				        "Mew",
+				        "Ho-oh",
+				        "Lugia"
 				    ],
-				    "question": "The escape velocity of a rocket fired from the earth towards the moon is the velocity required to overcome"
+				    "question": "Pokemon creador de todo"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "was a great Italian painter, sculptor and architect",
-				        "got universal fame form his masterpiece \"Mona lisa\"",
-				        "drew models of organs such as the heart, lungs and womb",
-				        "All of the above"
+				        "Lugia",
+				        "Pikachu",
+				        "Ho-oh",
+				        "Arceus"
 				    ],
-				    "question": "Leonardo da Vinci"
+				    "question": "Creador de los perros legendarios"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "2000",
-				        "2001",
-				        "2002",
-				        "2003"
+				        "Halo",
+				        "Sonic",
+				        "Zelda",
+				        "Mario"
 				    ],
-				    "question": "Hamid Karzai was chosen president of Afghanistan in"
+				    "question": "Pokemon es la segunda franquicia de videojuegos más vendida, ¿pero quién es el número uno?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "New York, USA",
-				        "Haque (Netherlands)",
-				        "Geneva",
-				        "Paris"
+				        "Satoshi",
+				        "Hiro",
+				        "Green",
+				        "Red"
 				    ],
-				    "question": "The headquarters of UN are situated at"
+				    "question": "¿Cuál es el nombre de Ash Ketchum en Japón?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "friction between the earth and the bus",
-				        "friction between the passengers and the earth",
-				        "inertia of the passengers",
-				        "inertia of the bus"
+				        "Lo encontro",
+				        "Misty",
+				        "Profesor oak",
+				        "Su mamá"
 				    ],
-				    "question": "When a moving bus stops suddenly, the passenger are pushed forward because of the"
+				    "question": "¿Quién le dio a Ash su primer Pokemon?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "1908 at London",
-				        "1980 at Moscow",
-				        "1936 at Berlin",
-				        "1924 at Paris"
+				        "Team orange",
+				        "Team rocket",
+				        "Team galaxy,
+				        "Team three"
 				    ],
-				    "question": "When and where was hockey introduced for women in Olympics?"
+				    "question": "¿Qué grupo siempre esta intentando robar a Pikachu?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "increase the alkalinity of the soil",
-				        "increase the acidity of the soil",
-				        "restore nitrates to the soil",
-				        "make the soil more porous"
+				        "Giovanni",
+				        "El papá de ash",
+				        "Meowth",
+				        "Persian"
 				    ],
-				    "question": "Lime is sometimes applied to soil in order to"
+				    "question": "Quién es el jefe del Team Rocket?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "discovered Greenland",
-				        "travelled through China, India and other parts of Asia",
-				        "travelled round the cape of Good Hope",
-				        "discovered Canada"
+				        "Dragon",
+				        "Fuego",
+				        "Siniestro",
+				        "Fantasma"
 				    ],
-				    "question": "Marco Polo"
+				    "question": "¿Qué tipo de Pokemon es Charmander?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "Guruji",
-				        "Man of Peace",
-				        "Punjab Kesari",
-				        "Mahamana"
+				        "871",
+				        "905",
+				        "151",
+				        "321"
 				    ],
-				    "question": "Lal Bahadur Shastri is also known as"
+				    "question": "Cuantos pokemones hay en la actualidad?"
 				}
 		    ]
 		},
 		{
 		    "questions" : [
 		        {
-		            "question" : "Which of the following consumer goods is the Gerber Products Co. best known for?",
+		            "question" : "Evolucion de eevee tipo planta",
 		            "content" : [
-		                "Potato chips",
-		                "Fine wines",
-		                "Chewing gum",
-		                "Baby Food"
+		                "Flareon",
+		                "Vaporeon",
+		                "Sylveon",
+		                "Leafeon"
 		            ],
 		            "correct" : 3
 		        },
 		        {
-		            "question" : "In which of these household appliances would you find a lint screen?",
+		            "question" : "Primero remaster de un juego de pokemon",
 		            "content" : [
-		                "Dishwasher",
-		                "Microwave oven",
-		                "Clothes dryer",
-		                "Trash compactor"
+		                "Soul silver",
+		                "Hearth Gold",
+		                "Rojo fuego/Verde Hoja",
+		                "Azul agua"
+		            ],
+		            "correct" : 2
+		        },
+		       {
+		            "question" : "Que es super eficaz contra el tipo normal?",
+		            "content" : [
+		                "Lucha",
+		                "Fantasma",
+		                "Electrico",
+		                "Fuego"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Cual es el nivel maximo de un pokemon?",
+		            "content" : [
+		                "100",
+		                "50",
+		                "75",
+		                "10"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Cual es el nivel maximo en el competitivo?",
+		            "content" : [
+		                "20",
+		                "75",
+		                "100",
+		                "50"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Al dia de hoy cuantas generaciones hay?",
+		            "content" : [
+		                "9",
+		                "7",
+		                "6",
+		                "11"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Originalmente cuantos pokemones eran?",
+		            "content" : [
+		                "150",
+		                "151",
+		                "149",
+		                "215"
+		            ],
+		            "correct" : 1
+		        },
+				{
+				    "correct": 3,
+				    "content": [
+				        "Oak",
+				        "Ash",
+				        "Blue",
+				        "Red"
+				    ],
+				    "question": "Como se llama el primer protagonista de los juegos?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Mexico",
+				        "Holanda",
+				        "España",
+				        "Francia"
+				    ],
+				    "question": "En que pais se basa kalos?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "España",
+				        "Holanda",
+				        "Japon",
+				        "Francia"
+				    ],
+				    "question": "En que region se basa Paldea?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "1968",
+				        "1996",
+				        "1901",
+				        "1965"
+				    ],
+				    "question": "En que año salio el primer pokemon?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Talonflame",
+				        "Fletching",
+				        "Pidgey",
+				        "torchic"
+				    ],
+				    "question": "Cual es la ave regional de kanto?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Mew",
+				        "Charmander",
+				        "Rhydon",
+				        "Pikachu"
+				    ],
+				    "question": "Cual fue el primer pokemon creado?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Charmander",
+				        "Squirtle",
+				        "Cyndaquil",
+				        "Bulbasaur"
+				    ],
+				    "question": "Que pokemon no es inicial de kanto?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Arceus",
+				        "Mewthird",
+				        "Ho-oh",
+				        "Mew"
+				    ],
+				    "question": "Desde la genetica de que pokemon se creo mewtwo?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Master ball",
+				        "Ultra ball",
+				        "Nido ball",
+				        "Super ball"
+				    ],
+				    "question": "Que pokeball nunca falla?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Flareon",
+				        "Sylveon",
+				        "Vaporeon",
+				        "Leafeon"
+				    ],
+				    "question": "Que eeveevolucion fue introducida en Kalos?"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "Cual NO es una evolucion de eevee",
+		            "content" : [
+		                "Vaporeon",
+		                "Jolteon",
+		                "Empoleon",
+		                "Flareon"
 		            ],
 		            "correct" : 2
 		        },
 		        {
-		            "question" : "What are the three primary colors?",
+		            "question" : "Cual es la evolucion final de happiny?",
 		            "content" : [
-		                "Red, green, blue",
-		                "Magenta, pink, cyan",
-		                "Yellow, salmon, brown",
-		                "White, grey, black"
+		                "Blissey",
+		                "Chancey",
+		                "Lickitung",
+		                "Jinx"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "In aviation, what does UFO stand for?",
+		            "question" : "Cuantos gimnasios toca pasar antes de entrar a la liga pokemon",
 		            "content" : [
-		                "Unified Flying Object",
-		                "Unitary Flinging Obsession",
-		                "United Flag Opposition",
-		                "Unidentified Flying Object"
+		                "4",
+		                "6",
+		                "8",
+		                "12"
 		            ],
-		            "correct" : 3
+		            "correct" : 2
 		        },
 		        {
-		            "question" : "In aviation, what does UFO stand for?",
+		            "question" : "",
 		            "content" : [
-		                "Unified Flying Object",
-		                "Unitary Flinging Obsession",
-		                "United Flag Opposition",
-		                "Unidentified Flying Object"
-		            ],
-		            "correct" : 3
-		        },
-				{
-				    "correct": 0,
-				    "content": [
-				        "low melting point",
-				        "high resistance",
-				        "high melting point",
-				        "low specific heat"
-				    ],
-				    "question": "For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "slowing down of economic activity over a limited period",
-				        "period during which unemployment may rise and demand and output may fall, leading to slump in trade",
-				        "period that results from accumulation of unsold goods, owing to fall in demand",
-				        "All of the above"
-				    ],
-				    "question": "Recession is"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "Nagaland",
-				        "Arunachal Pradesh",
-				        "Assam",
-				        "All of the above"
-				    ],
-				    "question": "Guwahati High Court is the judicature of"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Orissa",
-				        "Tamil nadu",
-				        "Andhra Pradesh",
-				        "Kerala"
-				    ],
-				    "question": "Heavy Water Project (Talcher) and Fertilizer plant (Paradeep) are famous industries of"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "the amount of moisture it can hold decreases",
-				        "its absolute humidity decreases",
-				        "its relative humidity remains constant",
-				        "its absolute humidity increases"
-				    ],
-				    "question": "When a given amount of air is cooled"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "1789 AD",
-				        "1798 AD",
-				        "1792 AD",
-				        "1729 AD"
-				    ],
-				    "question": "When did France became Republic?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "Group A only",
-				        "Group B only",
-				        "Group A and O",
-				        "Group AB only"
-				    ],
-				    "question": "Of the blood groups A, B, AB and O, which one is transfused into a person whose blood group is A?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "coins",
-				        "numbers",
-				        "stamps",
-				        "space"
-				    ],
-				    "question": "Numismatics is the study of"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "a classed unique society",
-				        "a united society",
-				        "a classed society",
-				        "None of the above"
-				    ],
-				    "question": "Karl Marx's ideology advocated"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Maharashtra",
-				        "Rajasthan",
-				        "Madhya Pradesh",
-				        "Himachal Pradesh"
-				    ],
-				    "question": "Mahabaleshwar is located in"
-				}
-		    ]
-		},
-		{
-		    "questions" : [
-		        {
-		            "question" : "What kind of animal traditionally lives in a sty?",
-		            "content" : [
-		                "Cow",
-		                "Pig",
-		                "Fox",
-		                "Teenager"
+		                "Foreign",
+		                "Federal",
+		                "Flappy",
+		                "Face"
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "The EPA urges people to produce less waste by engaging in efforts to reduce, reuse and what?",
+		            "question" : "Que tipo es inmune a veneno ",
 		            "content" : [
-		                "Recycle",
-		                "Rewrap",
-		                "Repossess",
-		                "Retire"
+		                "Acero",
+		                "Roca",
+		                "Tierra",
+		                "Electrico"
 		            ],
 		            "correct" : 0
 		        },
-		        {
-		            "question" : "What is the second most common gas in the air?",
-		            "content" : [
-		                "Nitrogen",
-		                "Oxygen",
-		                "Water",
-		                "Helium"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "Which month has only 28 days (unless it's a leap year)?",
-		            "content" : [
-		                "March",
-		                "September",
-		                "June",
-		                "Feburary"
-		            ],
-		            "correct" : 3
-		        },
-				{
-				    "correct": 1,
-				    "content": [
-				        "give",
-				        "prove",
-				        "both",
-				        "None of the above"
-				    ],
-				    "question": "Pythagoras was first to ____ the universal validity of geometrical theorem."
-				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "George Washington",
-				        "Bill Clinton",
-				        "George Bush",
-				        "None of the above"
+				        "Tierra",
+				        "Planta",
+				        "Fuego",
+				        "Agua"
 				    ],
-				    "question": "The American General who led the revolt against the British and declared American independence was"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "1986 at Athens",
-				        "1988 at Seoul",
-				        "1924 at St. Louis",
-				        "1908 at London"
-				    ],
-				    "question": "When and where was weightlifting introduced in Olympics?"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "Junagarh, Gujarat",
-				        "Diphu, Assam",
-				        "Kohima, Nagaland",
-				        "Gangtok, Sikkim"
-				    ],
-				    "question": "Garampani sanctuary is located at"
+				    "question": "Que tipo es inmune a electrico"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "states that no one was to be imprisoned without a writ or warrant stating the charge against him",
-				        "provided facilities to a prisoner to obtain either speedy trial or release in bail",
-				        "safeguarded the personal liberties of the people against arbitrary imprisonment by the king's orders",
-				        "All of the above"
+				        "Psiquico",
+				        "Fantasma",
+				        "Hada",
+				        "Normal"
 				    ],
-				    "question": "The Habeas Corpus Act of 1679"
+				    "question": "The ozone layer restricts"
 				},
 				{
-				    "correct": 1,
+				    "correct": 0,
 				    "content": [
-				        "1960",
-				        "1961",
-				        "1962",
-				        "1963"
+				        "Hada",
+				        "Siniestro",
+				        "Tierra",
+				        "Normal"
 				    ],
-				    "question": "When did Yuri Alekseyevich Gagaris of Russia, the first man to reach space, reach space?"
+				    "question": "Que tipo es inmune a dragon"
 				},
-		        {
-		            "question" : "What are the dimensions of A4 paper?",
-		            "content" : [
-		                "8.3\" x 11.7\"",
-		                "8.5\" x 11\"",
-		                "30cm x 50cm",
-		                "8.5\" x 14\""
-		            ],
-		            "correct" : 0
-		        },
 				{
-				    "correct": 2,
+				    "correct": 0,
 				    "content": [
-				        "energy",
-				        "speed",
-				        "distance",
-				        "intensity"
+				        "Fantasma",
+				        "Electrico",
+				        "Agua",
+				        "Planta"
 				    ],
-				    "question": "Light Year is related to"
+				    "question": "Que tipo es inmune a normal y lucha"
 				},
 				{
-				    "correct": 2,
+				    "correct": 0,
 				    "content": [
-				        "a type of asset that is in cash in the current account of the commercial bank",
-				        "a type of asset that is in the form of a deposit in the current account of the commercial bank",
-				        "either of these",
-				        "None of the above"
+				        "Volador",
+				        "Veneno",
+				        "Acero",
+				        "Fantasma"
 				    ],
-				    "question": "A liquid asset is"
+				    "question": "Que tipo es inmune a tierra"
 				},
 				{
-				    "correct": 1,
+				    "correct": 0,
 				    "content": [
-				        "largest airport",
-				        "highest airport",
-				        "lowest airport",
-				        "busiest airport"
+				        "Siniestro",
+				        "Dragon",
+				        "Agua",
+				        "Volador"
 				    ],
-				    "question": "Lhasa airport at Tibet is the World's"
+				    "question": "Que tipo es inmune a psiquico"
 				},
 				{
-				    "correct": 2,
-				    "content" : [
-				        "Ethiopia",
-				        "Nigeria",
-				        "Zambia",
-				        "Chad"
+				    "correct": 0,
+				    "content": [
+				        "Dragon",
+				        "Acero",
+				        "Fuego",
+				        "Agua"
 				    ],
-				    "question": "Which of these African countries is situated south of the equator?"
+				    "question": "Que es super efectivo contra tipo dragon"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Tierra",
+				        "Agua",
+				        "Dragon",
+				        "Hada"
+				    ],
+				    "question": "Que es super efectivo contra tipo electrico?"
 				}
 		    ]
 		}
