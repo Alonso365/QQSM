@@ -485,288 +485,288 @@
 		            "correct" : 2
 		        },
 		       {
-		            "question" : "What are the three primary colors?",
+		            "question" : "cual es el juego mas vendido de pokemon?",
 		            "content" : [
-		                "Red, green, blue",
-		                "Magenta, pink, cyan",
-		                "Yellow, salmon, brown",
-		                "White, grey, black"
+		                "Pokémon Azul / Verde / Rojo / Amarillo",
+		                "Pokemon esmeralda",
+		                "Pokemon Sol / Luna",
+		                "Pokemon Blanco / Negro"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "In aviation, what does UFO stand for?",
+		            "question" : "¿Cómo se llama la enfermera en el anime que dirige todos los Centros Pokémon?",
 		            "content" : [
-		                "Unified Flying Object",
-		                "Unitary Flinging Obsession",
-		                "United Flag Opposition",
-		                "Unidentified Flying Object"
+		                "June",
+		                "Jane",
+		                "Jenne",
+		                "Joy"
 		            ],
 		            "correct" : 3
 		        },
 		        {
-		            "question" : "In aviation, what does UFO stand for?",
+		            "question" : "Cuál de estos Pokémon se vería más afectado por el movimiento? Hidrobomba?",
 		            "content" : [
-		                "Unified Flying Object",
-		                "Unitary Flinging Obsession",
-		                "United Flag Opposition",
-		                "Unidentified Flying Object"
+		                "Chansey",
+		                "Venasaur",
+		                "Blastoise",
+		                "Charizard"
 		            ],
 		            "correct" : 3
 		        },
 				{
 				    "correct": 0,
 				    "content": [
-				        "low melting point",
-				        "high resistance",
-				        "high melting point",
-				        "low specific heat"
+				        "Joltik",
+				        "Ralts",
+				        "Roselia",
+				        "Whismur"
 				    ],
-				    "question": "For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having"
+				    "question": "De los siguientes Pokémon, ¿cuál es el más pequeño?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "slowing down of economic activity over a limited period",
-				        "period during which unemployment may rise and demand and output may fall, leading to slump in trade",
-				        "period that results from accumulation of unsold goods, owing to fall in demand",
-				        "All of the above"
+				        "42",
+				        "30",
+				        "26",
+				        "28"
 				    ],
-				    "question": "Recession is"
+				    "question": "Cuántas formas de Unown hay?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "Nagaland",
-				        "Arunachal Pradesh",
-				        "Assam",
-				        "All of the above"
+				        "Glaceon",
+				        "Sylveon",
+					"Leafeon",
+				        "Lumineon"
 				    ],
-				    "question": "Guwahati High Court is the judicature of"
+				    "question": "Qué Pokémon no es una evolución de Eevee?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "Orissa",
-				        "Tamil nadu",
-				        "Andhra Pradesh",
-				        "Kerala"
+				        "Diglett",
+				        "Psyduck",
+				        "Pikachu",
+				        "Meowth"
 				    ],
-				    "question": "Heavy Water Project (Talcher) and Fertilizer plant (Paradeep) are famous industries of"
+				    "question": "Qué Pokémon es el número 50 en el Dex nacional?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "the amount of moisture it can hold decreases",
-				        "its absolute humidity decreases",
-				        "its relative humidity remains constant",
-				        "its absolute humidity increases"
+				        "Nidorino",
+				        "Pikachu",
+				        "Pidgeot",
+				        "Mew"
 				    ],
-				    "question": "When a given amount of air is cooled"
+				    "question": "¿Cuál de estos Pokémon cambia de tipo cuando evoluciona?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "1789 AD",
-				        "1798 AD",
-				        "1792 AD",
-				        "1729 AD"
+				        "Victini",
+				        "Cubone",
+				        "Phantump",
+				        "Gengar"
 				    ],
-				    "question": "When did France became Republic?"
+				    "question": "Según la Pokédex, ¿qué Pokémon de tipo fantasma es en realidad un niño muerto?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "Group A only",
-				        "Group B only",
-				        "Group A and O",
-				        "Group AB only"
+				        "Baya frambu",
+				        "Foco energia",
+				        "Banda focus",
+				        "Piedra eterna"
 				    ],
-				    "question": "Of the blood groups A, B, AB and O, which one is transfused into a person whose blood group is A?"
+				    "question": "Que objeto puede dejar a los pokemones con un ps"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "coins",
-				        "numbers",
-				        "stamps",
-				        "space"
+				        "Corona antigua",
+				        "Pepita de oro",
+				        "Trozo de estrella",
+				        "Polvo solar"
 				    ],
-				    "question": "Numismatics is the study of"
+				    "question": "Objeto mas caro para vender en las tiendas"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "a classed unique society",
-				        "a united society",
-				        "a classed society",
-				        "None of the above"
+				        "5",
+				        "8",
+				        "7",
+				        "1"
 				    ],
-				    "question": "Karl Marx's ideology advocated"
+				    "question": "Cuantas evoluciones tiene eevee"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "Maharashtra",
-				        "Rajasthan",
-				        "Madhya Pradesh",
-				        "Himachal Pradesh"
+				        "Charizard",
+				        "Bulbasaur",
+				        "Blastoise",
+				        "Aerodactyle"
 				    ],
-				    "question": "Mahabaleshwar is located in"
+				    "question": "Que pokemon tiene dos mega evoluciones"
 				}
 		    ]
 		},
 		{
 		    "questions" : [
 		        {
-		            "question" : "What kind of animal traditionally lives in a sty?",
+		            "question" : "Que pokemon usa el craneo de su madre muerta",
 		            "content" : [
-		                "Cow",
-		                "Pig",
-		                "Fox",
-		                "Teenager"
+		                "Magmar",
+		                "Cubone",
+		                "Charizard",
+		                "Gengar"
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "The EPA urges people to produce less waste by engaging in efforts to reduce, reuse and what?",
+		            "question" : "En que juego te regalan un lucario que puede mega-evolucionar",
 		            "content" : [
-		                "Recycle",
-		                "Rewrap",
-		                "Repossess",
-		                "Retire"
+		                "Rubi",
+		                "X",
+		                "Sol",
+		                "Saphiro"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "What is the second most common gas in the air?",
+		            "question" : "Que es Super efectivo contra tipo electrico",
 		            "content" : [
-		                "Nitrogen",
-		                "Oxygen",
-		                "Water",
-		                "Helium"
+		                "Agua",
+		                "Tierra",
+		                "Fuego",
+		                "Hadda"
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "Which month has only 28 days (unless it's a leap year)?",
+		            "question" : "Que pokemon se fusiona con necrozma",
 		            "content" : [
-		                "March",
-		                "September",
-		                "June",
-		                "Feburary"
+		                "Solgaleo",
+		                "Lugia",
+		                "Ho-oh",
+		                "Articuno"
 		            ],
 		            "correct" : 3
 		        },
 				{
-				    "correct": 1,
+				    "correct": 2,
 				    "content": [
-				        "give",
-				        "prove",
-				        "both",
-				        "None of the above"
+				        "Cargador",
+				        "Piedra trueno",
+				        "Banda focus",
+				        "Piedra eterna"
 				    ],
-				    "question": "Pythagoras was first to ____ the universal validity of geometrical theorem."
+				    "question": "Con que objeto evoluciona Magneton evoluciona a Magnezone"
 				},
 				{
-				    "correct": 0,
+				   "correct": 2,
 				    "content": [
-				        "George Washington",
-				        "Bill Clinton",
-				        "George Bush",
-				        "None of the above"
+				        "Cargador",
+				        "Piedra trueno",
+				        "Banda focus",
+				        "Piedra eterna"
 				    ],
-				    "question": "The American General who led the revolt against the British and declared American independence was"
+				    "question": "Con que objeto evoluciona Magneton evoluciona a Magnezone"
 				},
 				{
-				    "correct": 0,
+				    "correct": 2,
 				    "content": [
-				        "1986 at Athens",
-				        "1988 at Seoul",
-				        "1924 at St. Louis",
-				        "1908 at London"
+				        "Cargador",
+				        "Piedra trueno",
+				        "Banda focus",
+				        "Piedra eterna"
 				    ],
-				    "question": "When and where was weightlifting introduced in Olympics?"
+				    "question": "Con que objeto evoluciona Magneton evoluciona a Magnezone"
 				},
 				{
-				    "correct": 1,
+				    "correct": 2,
 				    "content": [
-				        "Junagarh, Gujarat",
-				        "Diphu, Assam",
-				        "Kohima, Nagaland",
-				        "Gangtok, Sikkim"
+				        "Cargador",
+				        "Piedra trueno",
+				        "Banda focus",
+				        "Piedra eterna"
 				    ],
-				    "question": "Garampani sanctuary is located at"
+				    "question": "Con que objeto evoluciona Magneton evoluciona a Magnezone"
 				},
 				{
-				    "correct": 3,
+				    "correct": 2,
 				    "content": [
-				        "states that no one was to be imprisoned without a writ or warrant stating the charge against him",
-				        "provided facilities to a prisoner to obtain either speedy trial or release in bail",
-				        "safeguarded the personal liberties of the people against arbitrary imprisonment by the king's orders",
-				        "All of the above"
+				        "Cargador",
+				        "Piedra trueno",
+				        "Banda focus",
+				        "Piedra eterna"
 				    ],
-				    "question": "The Habeas Corpus Act of 1679"
+				    "question": "Con que objeto evoluciona Pikachu a Raichu en alola"
 				},
 				{
-				    "correct": 1,
+				    "correct": 2,
 				    "content": [
-				        "1960",
-				        "1961",
-				        "1962",
-				        "1963"
+				        "Cargador",
+				        "Piedra trueno",
+				        "Banda focus",
+				        "Piedra eterna"
 				    ],
-				    "question": "When did Yuri Alekseyevich Gagaris of Russia, the first man to reach space, reach space?"
+				    "question": "Con que objeto evoluciona a Bellibolt"
 				},
 		        {
-		            "question" : "What are the dimensions of A4 paper?",
+		            "question" : "Cual fue el primer pokemon de ash",
 		            "content" : [
-		                "8.3\" x 11.7\"",
-		                "8.5\" x 11\"",
-		                "30cm x 50cm",
-		                "8.5\" x 14\""
+		                "Pikachu",
+		                "Charmander",
+		                "Pichu",
+		                "Bulbasaur"
 		            ],
 		            "correct" : 0
 		        },
 				{
 				    "correct": 2,
 				    "content": [
-				        "energy",
-				        "speed",
-				        "distance",
-				        "intensity"
+				        "Cargador",
+				        "Piedra trueno",
+				        "Banda focus",
+				        "Piedra eterna"
 				    ],
-				    "question": "Light Year is related to"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "a type of asset that is in cash in the current account of the commercial bank",
-				        "a type of asset that is in the form of a deposit in the current account of the commercial bank",
-				        "either of these",
-				        "None of the above"
-				    ],
-				    "question": "A liquid asset is"
+				    "question": "Con que objeto evoluciona Eelektrik a Eelectross"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "largest airport",
-				        "highest airport",
-				        "lowest airport",
-				        "busiest airport"
+				        "Cargador",
+				        "Piedra trueno",
+				        "Banda focus",
+				        "Piedra eterna"
 				    ],
-				    "question": "Lhasa airport at Tibet is the World's"
+				    "question": "Con que evoluciona eevee a Jolteon"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Cargador",
+				        "Piedra trueno",
+				        "Banda focus",
+				        "Piedra eterna"
+				    ],
+				    "question": "Con que objeto evoluciona pikachu"
 				},
 				{
 				    "correct": 2,
 				    "content" : [
-				        "Ethiopia",
-				        "Nigeria",
-				        "Zambia",
-				        "Chad"
+				        "Su papá",
+				        "Su abuelo",
+				        "Su mamá",
+				        "Su tutora"
 				    ],
-				    "question": "Which of these African countries is situated south of the equator?"
+				    "question": "Con quien vive el protagonista de rojo fuego"
 				}
 		    ]
 		}
